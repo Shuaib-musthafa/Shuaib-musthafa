@@ -51,6 +51,7 @@ I enjoy building impactful projects that solve real-world problems using state-o
 - 🐙 [GitHub](https://github.com/Shuaib-musthafa)
 - ✉️ [Email](mailto:shuaibmusthafam@gmail.com)
 
+<!---
 ---
 
 ## 📊 GitHub Stats
@@ -61,6 +62,7 @@ I enjoy building impactful projects that solve real-world problems using state-o
 </p>
 
 ---
+--->
 
 ⭐️ If you like my work, follow me for updates on exciting AI projects!
 
