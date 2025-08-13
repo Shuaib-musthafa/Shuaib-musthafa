@@ -36,13 +36,13 @@ I enjoy building impactful projects that solve real-world problems using state-o
   *OCR pipeline using Tesseract and image preprocessing to recognize handwritten prescriptions.*
 
 ---
-
+<!--
 ## 📜 Certifications
 
 - 🧠 [Deep Learning Specialization – Andrew Ng (Coursera)](link) *(Add when available)*  
 - 🤖 [Introduction to Generative AI – Google Cloud](link) *(Add when available)*  
 - 🧮 [Machine Learning with Python – IBM Skills Network](link) *(Add when available)*  
-
+-->
 ---
 
 ## 🌐 Connect with Me
